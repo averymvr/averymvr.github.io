@@ -1,0 +1,32 @@
+1:"$Sreact.fragment"
+3:"/_next/static/chunks/1yhvx-1b0pbac.js"
+4:I[33945,["$3"],"default"]
+5:I[93610,["$3"],"default"]
+6:I[39756,["$3"],"default"]
+7:I[37457,["$3"],"default"]
+8:"/_next/static/chunks/1wy0oxjubrjq1.js"
+9:I[36654,["$3","$8"],"default"]
+10:I[97367,["$3"],"OutletBoundary"]
+11:"$Sreact.suspense"
+14:"ViewportBoundary"
+15:I[97367,["$3"],"$14"]
+16:"MetadataBoundary"
+17:I[97367,["$3"],"$16"]
+18:I[27201,["$3"],"IconMark"]
+:HL["/_next/static/chunks/2xqruei-x67yp.css","style"]
+2:["$","style",null,{"children":"body { visibility: visible !important; }"}]
+b:X
+e:X
+e:C
+f:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L9",null,{}],[["$","script","script-0",{"src":"/_next/static/chunks/1wy0oxjubrjq1.js","async":true}]],["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":"$@13","v":null,"s":"$b"}}]]
+c:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@d","v":"$e","s":"$b"},"c":"$Qf"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2xqruei-x67yp.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/1yhvx-1b0pbac.js","async":true}]],["$","html",null,{"lang":"en","className":"bFZZ7W_variable QsAKoa_variable g88mKG_variable JkHHoq_variable","children":["$","body",null,{"children":[["$","noscript",null,{"children":"$2"}],["$","$L4",null,{}],["$","$L5",null,{"children":["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}],"notFound":[["$","$L9",null,{}],[]]}]}]]}]}]]}],"p":"$@a","v":null,"s":"$b"},"c":"$Qc"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Page not found — Avery Fernandez"}],["$","meta","1",{"name":"description","content":"Portfolio of Avery Fernandez Mavrovounioti, a UI/UX designer and full-stack developer focused on intuitive, accessible, human-centered products."}],["$","meta","2",{"property":"og:title","content":"Avery Fernandez Mavrovounioti — UI/UX Designer & Developer"}],["$","meta","3",{"property":"og:description","content":"Portfolio of Avery Fernandez Mavrovounioti, a UI/UX designer and full-stack developer focused on intuitive, accessible, human-centered products."}],["$","meta","4",{"property":"og:site_name","content":"Avery Fernandez"}],["$","meta","5",{"property":"og:image","content":"https://averymvr.github.io/photos/hero.jpg"}],["$","meta","6",{"property":"og:image:alt","content":"Avery Fernandez"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Avery Fernandez Mavrovounioti — UI/UX Designer & Developer"}],["$","meta","10",{"name":"twitter:description","content":"Portfolio of Avery Fernandez Mavrovounioti, a UI/UX designer and full-stack developer focused on intuitive, accessible, human-centered products."}],["$","meta","11",{"name":"twitter:image","content":"https://averymvr.github.io/photos/hero.jpg"}],["$","meta","12",{"name":"twitter:image:alt","content":"Avery Fernandez"}],["$","link","13",{"rel":"icon","href":"/icon.png?icon.2p3qwqmd-khud.png","sizes":"256x256","type":"image/png"}],["$","link","14",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.0e9e6vub90t4h.png","sizes":"180x180","type":"image/png"}],["$","$L18","15",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@19","v":null,"s":"$b"}},"a":"$@1a","u":"$@1b","b":"nmJzZIpIawtBeL7CM_hRU"}
+12:null
+b:300
+1b:true
+b:C
+1a:0
+d:"$undefined"
+a:"$undefined"
+19:"$undefined"
+13:"$undefined"

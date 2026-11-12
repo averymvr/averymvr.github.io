@@ -1,0 +1,41 @@
+1:"$Sreact.fragment"
+3:"/_next/static/chunks/1yhvx-1b0pbac.js"
+4:I[33945,["$3"],"default"]
+5:I[93610,["$3"],"default"]
+6:I[39756,["$3"],"default"]
+7:I[37457,["$3"],"default"]
+8:"/_next/static/chunks/1wy0oxjubrjq1.js"
+9:I[36654,["$3","$8"],"default"]
+d:"/_next/static/chunks/0wpgijotm1sc6.js"
+e:I[42724,["$3","$d"],"default"]
+f:"/_next/static/chunks/2nlfrafvlmuix.js"
+10:I[5134,["$3","$d","$f"],"default"]
+15:I[47257,["$3"],"ClientPageRoot"]
+16:"/_next/static/chunks/31f8a_ycxn0_j.js"
+17:I[52762,["$3","$d","$16"],"default"]
+1a:I[97367,["$3"],"OutletBoundary"]
+1b:"$Sreact.suspense"
+1e:"ViewportBoundary"
+1f:I[97367,["$3"],"$1e"]
+20:"MetadataBoundary"
+21:I[97367,["$3"],"$20"]
+22:I[27201,["$3"],"IconMark"]
+:HL["/_next/static/chunks/2xqruei-x67yp.css","style"]
+2:["$","style",null,{"children":"body { visibility: visible !important; }"}]
+b:X
+14:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L15",null,{"Component":"$17","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@18","$@19"]}}],[["$","script","script-0",{"src":"/_next/static/chunks/31f8a_ycxn0_j.js","async":true}]],["$","$L1a",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@1c"}]}]]}],"p":"$@1d","v":null,"s":"$b"}}]]
+12:[["children",{"s":"about","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@13","v":null,"s":"$b"},"c":"$Q14"}]]
+c:[["children",{"s":"(site)","h":96,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/0wpgijotm1sc6.js","async":true}]],[["$","a",null,{"href":"#main","className":"skip-link","children":"Skip to content"}],["$","$Le",null,{}],["$","main",null,{"id":"main","tabIndex":-1,"style":{"outline":"none"},"children":["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L10",null,{"children":["$","$L7",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/_next/static/chunks/2nlfrafvlmuix.js","async":true}]],"notFound":[["$","$L9",null,{}],[]]}]}],["$","footer",null,{"style":{"background":"var(--taupe-deep)","color":"rgba(253,251,243,.8)","padding":"34px 40px"},"children":["$","div",null,{"className":"footer-inner","style":{"maxWidth":1040,"margin":"0 auto","display":"flex","justifyContent":"space-between","alignItems":"center","flexWrap":"wrap","gap":16},"children":[["$","span",null,{"style":{"fontFamily":"var(--script)","fontSize":32,"color":"var(--paper)"},"children":"Avery Fernandez Mavrovounioti"}],["$","div",null,{"className":"footer-meta","style":{"display":"flex","flexDirection":"column","alignItems":"flex-end","gap":4,"fontFamily":"var(--body)","fontSize":15},"children":[["$","a",null,{"href":"mailto:aands.design.development@gmail.com","style":{"color":"var(--paper)","textDecoration":"underline","textUnderlineOffset":3},"children":"aands.design.development@gmail.com"}],["$","span",null,{"children":"© 2026 · designed & built with care"}]]}]]}]}]]]}],"p":"$@11","v":null,"s":"$b"},"c":"$Q12"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2xqruei-x67yp.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/1yhvx-1b0pbac.js","async":true}]],["$","html",null,{"lang":"en","className":"bFZZ7W_variable QsAKoa_variable g88mKG_variable JkHHoq_variable","children":["$","body",null,{"children":[["$","noscript",null,{"children":"$2"}],["$","$L4",null,{}],["$","$L5",null,{"children":["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}],"notFound":[["$","$L9",null,{}],[]]}]}]]}]}]]}],"p":"$@a","v":null,"s":"$b"},"c":"$Qc"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L21",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"About — Avery Fernandez"}],["$","meta","1",{"name":"description","content":"About Avery Fernandez: background, education, and research publications on noise sensitivity and accessibility."}],["$","meta","2",{"property":"og:title","content":"Avery Fernandez Mavrovounioti — UI/UX Designer & Developer"}],["$","meta","3",{"property":"og:description","content":"Portfolio of Avery Fernandez Mavrovounioti, a UI/UX designer and full-stack developer focused on intuitive, accessible, human-centered products."}],["$","meta","4",{"property":"og:site_name","content":"Avery Fernandez"}],["$","meta","5",{"property":"og:image","content":"https://averymvr.github.io/photos/hero.jpg"}],["$","meta","6",{"property":"og:image:alt","content":"Avery Fernandez"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Avery Fernandez Mavrovounioti — UI/UX Designer & Developer"}],["$","meta","10",{"name":"twitter:description","content":"Portfolio of Avery Fernandez Mavrovounioti, a UI/UX designer and full-stack developer focused on intuitive, accessible, human-centered products."}],["$","meta","11",{"name":"twitter:image","content":"https://averymvr.github.io/photos/hero.jpg"}],["$","meta","12",{"name":"twitter:image:alt","content":"Avery Fernandez"}],["$","link","13",{"rel":"icon","href":"/icon.png?icon.2p3qwqmd-khud.png","sizes":"256x256","type":"image/png"}],["$","link","14",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.0e9e6vub90t4h.png","sizes":"180x180","type":"image/png"}],["$","$L22","15",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@23","v":null,"s":"$b"}},"a":"$@24","u":"$@25","b":"nmJzZIpIawtBeL7CM_hRU"}
+18:{}
+19:"$14:0:1:d:r:props:children:0:props:serverProvidedParams:params"
+1c:null
+b:300
+25:true
+b:C
+24:0
+13:"$undefined"
+11:"$undefined"
+a:"$undefined"
+23:"$undefined"
+1d:"$undefined"

@@ -1,0 +1,40 @@
+1:"$Sreact.fragment"
+3:"/_next/static/chunks/1yhvx-1b0pbac.js"
+4:I[33945,["$3"],"default"]
+5:I[93610,["$3"],"default"]
+6:I[39756,["$3"],"default"]
+7:I[37457,["$3"],"default"]
+8:"/_next/static/chunks/1wy0oxjubrjq1.js"
+9:I[36654,["$3","$8"],"default"]
+b:"/_next/static/chunks/0wpgijotm1sc6.js"
+c:I[42724,["$3","$b"],"default"]
+d:"/_next/static/chunks/2nlfrafvlmuix.js"
+e:I[5134,["$3","$b","$d"],"default"]
+11:I[47257,["$3"],"ClientPageRoot"]
+12:"/_next/static/chunks/0bxq7_rzoae9q.js"
+13:I[11955,["$3","$b","$12"],"default"]
+16:I[97367,["$3"],"OutletBoundary"]
+17:"$Sreact.suspense"
+19:"ViewportBoundary"
+1a:I[97367,["$3"],"$19"]
+1c:"MetadataBoundary"
+1d:I[97367,["$3"],"$1c"]
+1f:I[68027,["$3"],"default",1]
+:HL["/_next/static/chunks/2xqruei-x67yp.css","style"]
+:HL["/_next/static/media/01d6212a423b17a1-s.p.1pvupmngxrt5z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/2810fda8f234eb20-s.p.2c0pkezzij_il.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3679aa72a9b9035f-s.p.0h6ig86gwutp4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6f3ab718e3727c1a-s.p.3huc2loe0ie8a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/de9751bfdfafdac8-s.p.0tlhhw_qyyfys.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/fce692aaf0985484-s.p.33jraz4m6n5g3.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+2:["$","style",null,{"children":"body { visibility: visible !important; }"}]
+10:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$L11",null,{"Component":"$13","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@14","$@15"]}}],[["$","script","script-0",{"src":"/_next/static/chunks/0bxq7_rzoae9q.js","async":true,"nonce":"$undefined"}]],["$","$L16",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]]}],"p":false,"v":null}}]]
+f:[["children",{"s":"resume","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":null},"c":"$Q10"}]]
+a:[["children",{"s":"(site)","h":512,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/0wpgijotm1sc6.js","async":true,"nonce":"$undefined"}]],[["$","a",null,{"href":"#main","className":"skip-link","children":"Skip to content"}],["$","$Lc",null,{}],["$","main",null,{"id":"main","tabIndex":-1,"style":{"outline":"none"},"children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Le",null,{"children":["$","$L7",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/_next/static/chunks/2nlfrafvlmuix.js","async":true,"nonce":"$undefined"}]],"notFound":[["$","$L9",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"style":{"background":"var(--taupe-deep)","color":"rgba(253,251,243,.8)","padding":"34px 40px"},"children":["$","div",null,{"className":"footer-inner","style":{"maxWidth":1040,"margin":"0 auto","display":"flex","justifyContent":"space-between","alignItems":"center","flexWrap":"wrap","gap":16},"children":[["$","span",null,{"style":{"fontFamily":"var(--script)","fontSize":32,"color":"var(--paper)"},"children":"Avery Fernandez Mavrovounioti"}],["$","div",null,{"className":"footer-meta","style":{"display":"flex","flexDirection":"column","alignItems":"flex-end","gap":4,"fontFamily":"var(--body)","fontSize":15},"children":[["$","a",null,{"href":"mailto:aands.design.development@gmail.com","style":{"color":"var(--paper)","textDecoration":"underline","textUnderlineOffset":3},"children":"aands.design.development@gmail.com"}],["$","span",null,{"children":"© 2026 · designed & built with care"}]]}]]}]}]]]}],"p":false,"v":null},"c":"$Qf"}]]
+0:{"P":null,"c":["","resume",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2xqruei-x67yp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1yhvx-1b0pbac.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"bFZZ7W_variable QsAKoa_variable g88mKG_variable JkHHoq_variable","children":["$","body",null,{"children":[["$","noscript",null,{"children":"$2"}],["$","$L4",null,{}],["$","$L5",null,{"children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L9",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],"p":false,"v":null},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1a",null,{"children":"$L1b"}],["$","$L1d",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$17",null,{"name":"Next.Metadata","children":"$L1e"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$1f",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2xqruei-x67yp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"nmJzZIpIawtBeL7CM_hRU"}
+14:{}
+15:"$10:0:1:d:r:props:children:0:props:serverProvidedParams:params"
+1b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+20:I[27201,["$3"],"IconMark"]
+18:null
+1e:[["$","title","0",{"children":"Resume — Avery Fernandez"}],["$","meta","1",{"name":"description","content":"Resume of Avery Fernandez Mavrovounioti: experience, UX research projects, education, and skills."}],["$","meta","2",{"property":"og:title","content":"Avery Fernandez Mavrovounioti — UI/UX Designer & Developer"}],["$","meta","3",{"property":"og:description","content":"Portfolio of Avery Fernandez Mavrovounioti, a UI/UX designer and full-stack developer focused on intuitive, accessible, human-centered products."}],["$","meta","4",{"property":"og:site_name","content":"Avery Fernandez"}],["$","meta","5",{"property":"og:image","content":"https://averymvr.github.io/photos/hero.jpg"}],["$","meta","6",{"property":"og:image:alt","content":"Avery Fernandez"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Avery Fernandez Mavrovounioti — UI/UX Designer & Developer"}],["$","meta","10",{"name":"twitter:description","content":"Portfolio of Avery Fernandez Mavrovounioti, a UI/UX designer and full-stack developer focused on intuitive, accessible, human-centered products."}],["$","meta","11",{"name":"twitter:image","content":"https://averymvr.github.io/photos/hero.jpg"}],["$","meta","12",{"name":"twitter:image:alt","content":"Avery Fernandez"}],["$","link","13",{"rel":"icon","href":"/icon.png?icon.2p3qwqmd-khud.png","sizes":"256x256","type":"image/png"}],["$","link","14",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.0e9e6vub90t4h.png","sizes":"180x180","type":"image/png"}],["$","$L20","15",{}]]

@@ -1,0 +1,26 @@
+1:"$Sreact.fragment"
+3:"/_next/static/chunks/1yhvx-1b0pbac.js"
+4:I[33945,["$3"],"default"]
+5:I[93610,["$3"],"default"]
+6:I[39756,["$3"],"default"]
+7:I[37457,["$3"],"default"]
+8:"/_next/static/chunks/1wy0oxjubrjq1.js"
+9:I[36654,["$3","$8"],"default"]
+d:I[97367,["$3"],"OutletBoundary"]
+e:"$Sreact.suspense"
+10:"ViewportBoundary"
+11:I[97367,["$3"],"$10"]
+13:"MetadataBoundary"
+14:I[97367,["$3"],"$13"]
+16:I[68027,["$3"],"default",1]
+:HL["/_next/static/chunks/2xqruei-x67yp.css","style"]
+2:["$","style",null,{"children":"body { visibility: visible !important; }"}]
+b:X
+c:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$L9",null,{}],[["$","script","script-0",{"src":"/_next/static/chunks/1wy0oxjubrjq1.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":false,"v":null}}]]
+a:[["children",{"s":"/_not-found","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$b"},"c":"$Qc"}]]
+0:{"P":null,"c":["","_not-found",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2xqruei-x67yp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1yhvx-1b0pbac.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"bFZZ7W_variable QsAKoa_variable g88mKG_variable JkHHoq_variable","children":["$","body",null,{"children":[["$","noscript",null,{"children":"$2"}],["$","$L4",null,{}],["$","$L5",null,{"children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L9",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],"p":false,"v":null},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L11",null,{"children":"$L12"}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":"$L15"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$16",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2xqruei-x67yp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"nmJzZIpIawtBeL7CM_hRU"}
+b:C
+12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+17:I[27201,["$3"],"IconMark"]
+f:null
+15:[["$","title","0",{"children":"Page not found — Avery Fernandez"}],["$","meta","1",{"name":"description","content":"Portfolio of Avery Fernandez Mavrovounioti, a UI/UX designer and full-stack developer focused on intuitive, accessible, human-centered products."}],["$","meta","2",{"property":"og:title","content":"Avery Fernandez Mavrovounioti — UI/UX Designer & Developer"}],["$","meta","3",{"property":"og:description","content":"Portfolio of Avery Fernandez Mavrovounioti, a UI/UX designer and full-stack developer focused on intuitive, accessible, human-centered products."}],["$","meta","4",{"property":"og:site_name","content":"Avery Fernandez"}],["$","meta","5",{"property":"og:image","content":"https://averymvr.github.io/photos/hero.jpg"}],["$","meta","6",{"property":"og:image:alt","content":"Avery Fernandez"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Avery Fernandez Mavrovounioti — UI/UX Designer & Developer"}],["$","meta","10",{"name":"twitter:description","content":"Portfolio of Avery Fernandez Mavrovounioti, a UI/UX designer and full-stack developer focused on intuitive, accessible, human-centered products."}],["$","meta","11",{"name":"twitter:image","content":"https://averymvr.github.io/photos/hero.jpg"}],["$","meta","12",{"name":"twitter:image:alt","content":"Avery Fernandez"}],["$","link","13",{"rel":"icon","href":"/icon.png?icon.2p3qwqmd-khud.png","sizes":"256x256","type":"image/png"}],["$","link","14",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.0e9e6vub90t4h.png","sizes":"180x180","type":"image/png"}],["$","$L17","15",{}]]

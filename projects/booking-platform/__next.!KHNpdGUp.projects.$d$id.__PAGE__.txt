@@ -1,0 +1,45 @@
+1:"$Sreact.fragment"
+3:"/_next/static/chunks/1yhvx-1b0pbac.js"
+4:I[33945,["$3"],"default"]
+5:I[93610,["$3"],"default"]
+6:I[39756,["$3"],"default"]
+7:I[37457,["$3"],"default"]
+8:"/_next/static/chunks/1wy0oxjubrjq1.js"
+9:I[36654,["$3","$8"],"default"]
+d:"/_next/static/chunks/0wpgijotm1sc6.js"
+e:I[42724,["$3","$d"],"default"]
+f:"/_next/static/chunks/2nlfrafvlmuix.js"
+10:I[5134,["$3","$d","$f"],"default"]
+18:"/_next/static/chunks/24c-5gzd8cszr.js"
+19:I[73981,["$3","$d","$18"],"default"]
+1e:"ViewportBoundary"
+1f:I[97367,["$3"],"$1e"]
+20:"MetadataBoundary"
+21:I[97367,["$3"],"$20"]
+22:"$Sreact.suspense"
+23:I[27201,["$3"],"IconMark"]
+:HL["/_next/static/chunks/2xqruei-x67yp.css","style"]
+2:["$","style",null,{"children":"body { visibility: visible !important; }"}]
+b:X
+14:X
+14:C
+1a:T4a8,I created a UML class diagram to understand the way the different classes (users, appointments, admins, nurses) connected and their allowed actions. I also designed wireframes to understand the organization of the app and the website, as well as mid-fidelity mockups to visualize the different elements in greater detail. This gave me an initial idea of how the flow would work and allowed the client to give feedback and communicate any additional features they desired. Since this service was in the early stages, placeholder images and color palettes were used to move along the coding/development phase, even before the graphic designer was hired.
+Once assets like the logo and product images were created, I was able to design the website to match the aesthetic and style the company wanted. The logo and images featured hazy colors against a black background, so I designed the hero sections to incorporate a similar aurora-like aesthetic. This inspired the overall design to shift toward a darker color palette, allowing the vibrant purple call-to-action buttons to stand out. The result was a cohesive visual experience that carried the same atmospheric feel throughout the interface.17:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L19",null,{"p":{"id":"booking-platform","title":"IV Booking Platform","image":["booking-platform.jpg","wireframesayvr.jpg","diagramayvr.png","ayvrwellness.png"],"tab":"SCHEDULING","color":"#a9bcd2","accent":"#7d92ad","year":"2026","role":"Design & Creative Director","blurb":"A full-stack booking platform with role-based portals, built in Next.js.","summary":"A comprehensive healthcare platform I designed as a freelance project to streamline the patient, clinician, and administrator experience through an integrated digital ecosystem.","tags":["Web","Next.js","Full-Stack","Booking"],"problem":"The client needed a centralized platform that streamlined appointment booking and service management while providing a seamless experience for users and administrators. To effectively design the system, it was important to understand their business model, required functionality, and desired features. The parameters of this project were determined through continuous communication with the client. The challenge was designing a system that supported multiple user roles and simplified the scheduling process.","approach":"$1a","outcome":"By combining iterative design and ongoing client collaboration, the project resulted in a fully functional wellness booking platform in Next.js and Flutter that simplified appointment management for both users and staff. The different functionalities were allocated between the websites and the app through role-based access. One website is the admin portal, while the other website and the app primarily function as a client booking and nurse portal.","takeaway":"Clear communication with the client can help the final product meet user needs and exceed client expectations.","metrics":[["3","role-based portals"],["Next.js","full-stack build"],["96","Lighthouse accessibility"]],"interiorTone":"#eef2f7","polaroidcaption":"wireframes"}}],["$L1b"],"$L1c"]}],"p":"$@1d","v":null,"s":"$b"}}]]
+15:[["children",{"s":{"n":"id","t":"d","k":"booking-platform","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@16","v":"$14","s":"$b"},"c":"$Q17"}]]
+12:[["children",{"s":"projects","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@13","v":"$14","s":"$b"},"c":"$Q15"}]]
+c:[["children",{"s":"(site)","h":96,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/0wpgijotm1sc6.js","async":true}]],[["$","a",null,{"href":"#main","className":"skip-link","children":"Skip to content"}],["$","$Le",null,{}],["$","main",null,{"id":"main","tabIndex":-1,"style":{"outline":"none"},"children":["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L10",null,{"children":["$","$L7",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/_next/static/chunks/2nlfrafvlmuix.js","async":true}]],"notFound":[["$","$L9",null,{}],[]]}]}],["$","footer",null,{"style":{"background":"var(--taupe-deep)","color":"rgba(253,251,243,.8)","padding":"34px 40px"},"children":["$","div",null,{"className":"footer-inner","style":{"maxWidth":1040,"margin":"0 auto","display":"flex","justifyContent":"space-between","alignItems":"center","flexWrap":"wrap","gap":16},"children":[["$","span",null,{"style":{"fontFamily":"var(--script)","fontSize":32,"color":"var(--paper)"},"children":"Avery Fernandez Mavrovounioti"}],["$","div",null,{"className":"footer-meta","style":{"display":"flex","flexDirection":"column","alignItems":"flex-end","gap":4,"fontFamily":"var(--body)","fontSize":15},"children":[["$","a",null,{"href":"mailto:aands.design.development@gmail.com","style":{"color":"var(--paper)","textDecoration":"underline","textUnderlineOffset":3},"children":"aands.design.development@gmail.com"}],["$","span",null,{"children":"© 2026 · designed & built with care"}]]}]]}]}]]]}],"p":"$@11","v":null,"s":"$b"},"c":"$Q12"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2xqruei-x67yp.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/1yhvx-1b0pbac.js","async":true}]],["$","html",null,{"lang":"en","className":"bFZZ7W_variable QsAKoa_variable g88mKG_variable JkHHoq_variable","children":["$","body",null,{"children":[["$","noscript",null,{"children":"$2"}],["$","$L4",null,{}],["$","$L5",null,{"children":["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}],"notFound":[["$","$L9",null,{}],[]]}]}]]}]}]]}],"p":"$@a","v":null,"s":"$b"},"c":"$Qc"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L21",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$22",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"IV Booking Platform — Avery Fernandez"}],["$","meta","1",{"name":"description","content":"A full-stack booking platform with role-based portals, built in Next.js."}],["$","meta","2",{"property":"og:title","content":"IV Booking Platform — Avery Fernandez"}],["$","meta","3",{"property":"og:description","content":"A full-stack booking platform with role-based portals, built in Next.js."}],["$","meta","4",{"property":"og:site_name","content":"Avery Fernandez"}],["$","meta","5",{"property":"og:image","content":"https://averymvr.github.io/photos/projects/booking-platform.jpg"}],["$","meta","6",{"property":"og:image:alt","content":"IV Booking Platform"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"IV Booking Platform — Avery Fernandez"}],["$","meta","10",{"name":"twitter:description","content":"A full-stack booking platform with role-based portals, built in Next.js."}],["$","meta","11",{"name":"twitter:image","content":"https://averymvr.github.io/photos/projects/booking-platform.jpg"}],["$","meta","12",{"name":"twitter:image:alt","content":"IV Booking Platform"}],["$","link","13",{"rel":"icon","href":"/icon.png?icon.2p3qwqmd-khud.png","sizes":"256x256","type":"image/png"}],["$","link","14",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.0e9e6vub90t4h.png","sizes":"180x180","type":"image/png"}],["$","$L23","15",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@24","v":null,"s":"$b"}},"a":"$@25","u":"$@26","b":"nmJzZIpIawtBeL7CM_hRU"}
+27:I[97367,["$3"],"OutletBoundary"]
+1b:["$","script","script-0",{"src":"/_next/static/chunks/24c-5gzd8cszr.js","async":true}]
+1c:["$","$L27",null,{"children":["$","$22",null,{"name":"Next.MetadataOutlet","children":"$@28"}]}]
+b:300
+28:null
+26:true
+b:C
+25:0
+16:"$undefined"
+13:"$undefined"
+11:"$undefined"
+a:"$undefined"
+24:"$undefined"
+1d:"$undefined"
